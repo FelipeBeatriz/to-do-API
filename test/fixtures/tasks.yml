@@ -2,10 +2,8 @@
 
 one:
   title: MyString
-  description: MyText
-  is_done: false
+  done: false
 
 two:
   title: MyString
-  description: MyText
-  is_done: false
+  done: false
